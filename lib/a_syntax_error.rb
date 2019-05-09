@@ -1,3 +1,7 @@
 x = 1
 
-x = 
+puts x
+
+x = 1 * 2
+
+puts x
